@@ -11,7 +11,8 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://joycelee720.github.io/Test.ipa</string>
+					<string>https://joycelee720.github.io/Test.ipa
+https://joycelee720.github.io/Test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +32,11 @@
 				<key>bundle-identifier</key>
 				<string>com.lhkj.Oncenote</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Test</string>
+				<string>SmallNotes</string>
 			</dict>
 		</dict>
 	</array>
